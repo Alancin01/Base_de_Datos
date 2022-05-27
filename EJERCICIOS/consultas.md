@@ -17,6 +17,7 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 * Muestra los empleados que estan en x sucursal
 
+![image](https://user-images.githubusercontent.com/103066839/170737968-a2608f74-1bb9-472a-90b0-512b5aad2e67.png)
 
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
