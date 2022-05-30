@@ -24,6 +24,9 @@ En la BD utilizada en clase realiza las siguientes consultas:
 ![image](https://user-images.githubusercontent.com/103066839/170904532-85c6e4b2-6493-4909-9803-b8c5c5497f64.png)
 
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
+
+![image](https://user-images.githubusercontent.com/103066839/170908658-16d20169-9436-4402-ae9f-0009e0d6d909.png)
+
 * En la tabla peridistas muestra solo los que escriban sobre cine
 
 ![image](https://user-images.githubusercontent.com/103066839/170907758-8adbf085-5415-410d-a2a5-a983adeb98b8.png)
