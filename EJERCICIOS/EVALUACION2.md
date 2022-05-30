@@ -5,42 +5,34 @@ Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
 
-Un formato mediante el que se describe la información de administración .
-
-- Una entidad proveedora de servicios .
-
-- Dos conjuntos de API, uno para que interactúen los proveedores de servicios con las aplicaciones de administración y otro para que se relacionen entre sí los proveedores de servicios y los componentes que forman parte del sistema .
-
-- Una serie de servicios para facilitar la comunicación remota .
+ SELECT, INSERT INTO, UPDATE, DELETE.
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
 
-El tipo int permite representar números enteros.
-El tipo float permite representar números reales.
-El tipo complex permite representar números complejos.
+numerico, caracter, booleano.
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
-El delete borra una serie de filas de la tabla y truncate elimina todas las filas de la tabla sin borrar la tabla
+TRUNCATE es una funcion DDL, sirve para borrar el contenido de toda la tabla
+DELETE es una funcion DML, sirve para borrar un contenido selectivo en la tabla (con ayuda de la clausula WHERE)
 
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
-Nos permite establecer este atributo a los campos que requerimos tengan datos que no se puedan repetir.
+Permite no repetir los datos dentro de un atributo.
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
-char define una cadena de caracteres de longitud  fija y varchar de longitud variable con una longitud máxima n especificada por el usuario.
+la capacidad de almacenar la memoria, VARCHAR se ajusta al tamaño de la cadena, por otro lado, CHAR es fija, a pesar de que la cadena sea mas pequeña que la capacidad de memoria que se le habia ajustado.
 
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
-Es un lenguaje de Consulta Estructurada
-es un lenguaje de programación diseñado para actualizar, obtener, y calcular información en bases de datos relacionales.
+Standarized Query Languaje , es un lenguaje estandarizado para la consulta, organizar  grandes canitidades de datos, que se encuentran estructurados como el modelo entidad relacion
 
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
-se caracteriza por su editor de diagramas; desde su lienzo podrás arrastrar elementos desde el catálogo o bien añadirlos desde la opción herramientas, disponible en el menú lateral. Y si deseas analizar visualmente el esquema podrás exportarlo en formato imagen o PDF o bien generar un script SQL CREATE o ALTER.
+un software que sirve como gestor de base de datos, que rirve como interfaz entre la base de datos y los usuarios finales.
 
 ## Práctica 5.
 ### Gestores de base de datos
