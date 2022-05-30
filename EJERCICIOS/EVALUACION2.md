@@ -115,4 +115,6 @@ CREATE TABLE productos (
  INSERT INTO productos VALUES ('IM-56','Impresora HP Deskjet 3720',59.99,'HP01');
  INSERT INTO productos VALUES ('IP-54','Impresora HP Laserjet Pro M26nw',180,'HP01');
 
+
+
 https://www.db-fiddle.com/f/c63xUmSw1K8ndYKNyhSRmp/0
