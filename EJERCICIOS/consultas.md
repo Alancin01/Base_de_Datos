@@ -29,7 +29,8 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 * En la tabla peridistas muestra solo los que escriban sobre cine
 
-![image](https://user-images.githubusercontent.com/103066839/170907758-8adbf085-5415-410d-a2a5-a983adeb98b8.png)
+![image](https://user-images.githubusercontent.com/103066839/170910462-4f37a47a-0794-4345-8ccf-4610d2331d19.png)
+
 
 * De la tabla revistas muestra las que sean de publicacion quincenal
 
