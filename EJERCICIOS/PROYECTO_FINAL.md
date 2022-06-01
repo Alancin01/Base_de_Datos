@@ -30,6 +30,7 @@ un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
 
-![image](https://user-images.githubusercontent.com/103066839/171346402-b621ac28-d589-4913-b382-54b81ad04e30.png)
+![image](https://user-images.githubusercontent.com/103066839/171347010-1453ac07-09e7-414f-bfc5-493ce38b4447.png)
+
 
 
