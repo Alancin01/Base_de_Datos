@@ -117,4 +117,4 @@ CREATE TABLE productos (
 
 
 
-https://www.db-fiddle.com/f/c63xUmSw1K8ndYKNyhSRmp/0
+https://www.db-fiddle.com/f/3b5QuCHkY7E2sRTEeXfkGE/2
