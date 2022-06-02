@@ -116,5 +116,4 @@ CREATE TABLE productos (
  INSERT INTO productos VALUES ('IP-54','Impresora HP Laserjet Pro M26nw',180,'HP01');
 
 
-
-https://www.db-fiddle.com/f/3b5QuCHkY7E2sRTEeXfkGE/2
+https://www.db-fiddle.com/f/3b5QuCHkY7E2sRTEeXfkGE/3
