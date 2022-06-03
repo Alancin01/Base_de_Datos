@@ -1,13 +1,15 @@
 ## 7. Triggers en SQL
 1.- Qué es in TRIGGER?
 
+funcion que se inicia de manera automatica cuando se edita, elimina o se añaden nuevos datos a una tabla
+
 2.- Cuál es la función de un TRIGGER?
 
-funcion que se inicia de manera automatica cuando se edita, elimina o se añaden nuevos datos a una tabla
+mejorar la gestion de base de datos por que se pueden realizar muchas operaciones de manera automatica
 
 3.- Cuando se puede usar un TRIGGER?
 
-mejorar la gestion de base de datos por que se pueden realizar muchas operaciones de manera automatica
+cuando uno pretenda añadir, actualizar o eliminar información de una tabla
 
 4.- Cuáles son los dos escenarios de uso de un TRIGGER?
 
